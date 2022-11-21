@@ -1,0 +1,247 @@
+ID	Name	metabolitegroupfine	metabolitegroupcoarse
+A024_HILIC	N-Acetylputrescine	AA Metabolism / Arginine / Spermidine / Polyamide 	aa metabolism
+A007_HILIC	gamma-Aminobutyric acid (GABA)	AA Metabolism / Glutamate / Neurotransmitter	aa metabolism
+A006_HILIC	N,N-Dimethylglycine	AA metabolism / Glycine 	aa metabolism
+A003_HILIC	Sarcosine	AA metabolism / Glycine 	aa metabolism
+B121_HILIC	Aminolevulinic acid	AA metabolism / Heme	aa metabolism
+B120_HILIC	Imidazoleacetic acid	AA metabolism / Histidine 	aa metabolism
+A023_HILIC	Ketoleucine (4-Methyl-2-oxopentanoic acid)	AA Metabolism / LNAA / Leucine 	aa metabolism
+A016_HILIC	L-(-)-Threonine	AA Metabolism / LNAA / Threonine 	aa metabolism
+A046_HILIC	DL-Methionine sulfoxide	AA Metabolism / Methionine	aa metabolism
+A017_HILIC	L-Homoserine	AA Metabolism / Serine 	aa metabolism
+B173_HILIC	N-Acetylneuraminic acid	Acid	other
+A102_HILIC	Adenosine 5'-triphosphate (5'-ATP)	Bioenergetic processes / Pyrimidine metabolism 	bioenergetic process
+A113_HILIC	Coenzyme A	Bionenergetic processes	bioenergetic process
+A114_HILIC	Flavin adenine dinucleotide (FAD)	Bionenergetic processes	bioenergetic process
+A111_HILIC	NADPH	Bionenergetic processes	bioenergetic process
+A109_HILIC	ß-Nicotinamide adenine dinucleotide reduced (NADH)	Bionenergetic processes	bioenergetic process
+B180_HILIC	α,α-Trehalose	Carbohydrate / Glucose analoge	other
+A079_HILIC	6-Phosphogluconic acid	Carbohydrate / Glucose derivative	other
+A005_HILIC	Glycerin	Glycerol / Carbohydrate	other
+A059_HILIC	D-(-)-3-Phosphoglyceric acid	Glycolysis 	glycolysis
+A088_HILIC	D-Fructose 1,6-bisphosphate	Glycolysis / Carbohydrate	glycolysis
+A075_HILIC	D-Glucose 6-phosphate	Glycolysis / Carbohydrate	glycolysis
+A074_HILIC	D-Glucose-1-phosphate	Glycolysis / Carbohydrate	glycolysis
+B157_HILIC	D-Ribose-1-phosphate	Glycolysis / Carbohydrate	glycolysis
+A051_HILIC	Dihydroxyacetone phosphate	Glycolysis / Lipid metabolism 	glycolysis
+B119_HILIC	3-Methylhistamine	Histamine	other
+B128_HILIC	Methylimidazoleacetic acid	Histamine	other
+B178_HILIC	Adrenic acid	Lipid metabolism 	lipid metablism
+B163_HILIC	Oleamide	Lipid metabolism / oleic acid derivative 	lipid metablism
+A101_HILIC	Cytidine 5'-diphosphocholine (CDP-choline)	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+B172_HILIC	11(Z),14(Z)-Eicosadienoic acid	Lipid metabolism / PUFA	lipid metablism
+B171_HILIC	8Z,11Z,14Z-Eicosatrienoic acid	Lipid metabolism / PUFA	lipid metablism
+B170_HILIC	Arachidonic acid	Lipid metabolism / PUFA	lipid metablism
+B176_HILIC	Docosahexaenoic acid	Lipid metabolism / PUFA	lipid metablism
+B155_HILIC	Myristic acid	Lipid metabolism / SSFA	lipid metablism
+B161_HILIC	α-Eleostearic acid	Lipid metabolism / UFA / Linoleic acid precursor	lipid metablism
+B138_HILIC	7-Methylguanine	Nucleoside metabolism 	nucleoside metabolism
+A100_HILIC	Cytidine 5'-triphosphate (5'-CTP)	Nucleoside metabolism 	nucleoside metabolism
+A086_HILIC	Cytidine-5'-monophosphate (5'-CMP)	Nucleoside metabolism 	nucleoside metabolism
+A040_HILIC	Guanine	Nucleoside metabolism 	nucleoside metabolism
+B158_HILIC	Pseudouridine	Nucleoside metabolism 	nucleoside metabolism
+A095_HILIC	Thymidine 5'-diphosphate (5'-TDP)	Nucleoside metabolism 	nucleoside metabolism
+B183_HILIC	Uridine 5'-diphosphate (UDP)	Nucleoside metabolism 	nucleoside metabolism
+A087_HILIC	Uridine 5'-monophosphate (5'-UMP)	Nucleoside metabolism 	nucleoside metabolism
+A068_HILIC	2'-Deoxycytidine	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+A042_HILIC	Orotic acid	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+A070_HILIC	Thymidine	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+A072_HILIC	Uridine	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+B187_HILIC	Guanosine 5'-diphospho-D-mannose	Nucleoside sugar 	nucleoside metabolism
+B186_HILIC	Uridine 5'-diphosphoglucuronic acid	Nucleoside sugar 	nucleoside metabolism
+A081_HILIC	D-Sedoheptulose 7-phosphate	Pentose phosphate pathway 	other
+A049_HILIC	Uric Acid	Uric acid metabolism 	other
+A076_HILIC	Thiamine	Vitamine 	other
+A097_HILIC	Tocopherol (Vitamin E)	Vitamine 	other
+A083_HILIC	Retinoic acid	Vitamine derivative	other
+C222_HILIC	3-Sulfamoylalanine	AA metabolism / Alanine 	aa metabolism
+B143_HILIC	Arginic acid	AA metabolism / Arginine 	aa metabolism
+C233_HILIC	Homo-L-arginine	AA metabolism / Arginine 	aa metabolism
+C268_HILIC	Homoanserine	AA metabolism / beta-Alanine / Histidine 	aa metabolism
+C254_HILIC	2-[(2-Amino-2-carboxyethyl)sulfanyl]succinic acid	AA metabolism / Cysteine 	aa metabolism
+C235_HILIC	Prenisteine	AA metabolism / Cysteine 	aa metabolism
+C218_HILIC	L-Glutamic acid, 5-methyl ester	AA metabolism / Glutamate	aa metabolism
+C191_HILIC	2-Amino-3-butenoic acid	AA metabolism / Glycine 	aa metabolism
+C217_HILIC	N-(4-Hydroxybutanoyl)glycine	AA metabolism / Glycine 	aa metabolism
+C278_HILIC	N-Tridecanoylglycine	AA metabolism / glycine 	aa metabolism
+A033_HILIC	6-Oxo-pipecolinic acid	AA metabolism / Lysine 	aa metabolism
+C215_HILIC	N6-METHYLLYSINE	AA metabolism / Lysine 	aa metabolism
+C281_HILIC	saccharopine	AA metabolism / Lysine 	aa metabolism
+C200_HILIC	Pentahomoserine	AA Metabolism / Serine 	aa metabolism
+C301_HILIC	N-[(9-beta-D-ribofuranosylpurin-6-yl)carbamoyl]threonine	AA metabolism / Theonine 	aa metabolism
+C250_HILIC	N-(tert-Butoxycarbonyl)-L-leucine	AA metabolism / Threonine 	aa metabolism
+B150_HILIC	3-Indoxyl sulphate	AA metabolism / Tryptophan	aa metabolism
+C239_HILIC	2-Amino-5-phosphopentanoic acid	Acid	other
+C211_HILIC	2-Aminomuconic acid	Acid	other
+B175_HILIC	4-Dodecylbenzenesulfonic acid	Acid	other
+C227_HILIC	3,3'-Thiobispropanoic acid	Acid	other
+C240_HILIC	2-methylcitric acid	Bioenergetic processes / Citrate metabolism 	bioenergetic process
+C286_HILIC	ophthalmic acid	Bioenergetic processes / ROS / Glutathione metabolism 	bioenergetic process
+C294_HILIC	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	Carbohydrate	other
+C228_HILIC	Hexose	Carbohydrate	other
+A112_HILIC	PC	Choline / Glycerol / Phospholipids	other
+C249_HILIC	asn-val	Dipeptide	other
+C265_HILIC	Asp-Asp	Dipeptide	other
+C255_HILIC	beta-Alanyl-1-methyl-L-histidine	Dipeptide	other
+C276_HILIC	gamma-Glutamyl-S-methylcysteine	Dipeptide	other
+C253_HILIC	ile-thr	Dipeptide	other
+C270_HILIC	leu-lys	Dipeptide	other
+C246_HILIC	Valylvaline	Dipeptide	other
+C232_HILIC	Gly-Leu	Dipeptide 	other
+C252_HILIC	Threonyl-4-hydroxyproline	Dipeptide 	other
+B151_HILIC	Valylproline	Dipeptide / Valine / Proline 	other
+C223_HILIC	glyceraldehyde 3-phosphate	Glycolysis 	glycolysis
+C292_HILIC	glycidyl oleate	Lipid metabolism 	lipid metablism
+C236_HILIC	4-Hydroxy-2-oxoheptanedioic acid	Lipid metabolism / caboxy fatty acid 	lipid metablism
+c363_HILIC	L-Hexanoylcarnitine	Lipid metabolism / carnitine 	lipid metablism
+c378_HILIC	trans-2-Tetradecenoylcarnitine	Lipid metabolism / carnitine 	lipid metablism
+B179_HILIC	Erucamide	Lipid metabolism / FA amide 	lipid metablism
+C291_HILIC	(2E,4Z)-N-Isobutyl-2,4-octadecadienamide	Lipid metabolism / Fatty amides 	lipid metablism
+B123_HILIC	2-Hydroxycaproic acid	Lipid metabolism / hydroxy FA	lipid metablism
+B152_HILIC	12-Aminododecanoic acid	Lipid metabolism / Omega FA	lipid metablism
+C311_HILIC	1-(1Z-hexadecenyl)-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C290_HILIC	1-(sn-glycero-3-phospho)-1D-myo-inositol	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C334_HILIC	1-[(9Z)-octadec-9-enoyl]-2-hexadecanoyl-sn-glycero-3-phospho-(1'-sn-glycerol)	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C315_HILIC	1-arachidonyl-sn-glycero-3-phosphoethanolamine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C347_HILIC	1-Octadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoserine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C317_HILIC	1-oleoyl-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C335_HILIC	1-palmitoyl-2-[(9Z,12Z,15Z)-octadecatrienoyl]-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C306_HILIC	1-Palmitoyl-2-hydroxy-sn-glycero-3-PE	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C336_HILIC	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C343_HILIC	1-stearoyl-2-arachidonoyl-sn-glycero-3-phospho-(1'-sn-glycerol)	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C312_HILIC	1-Stearoyl-2-hydroxy-sn-glycero-3-PE	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C332_HILIC	1-tetradecanoyl-2-[(9Z)-octadecenoyl]-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C330_HILIC	1-tetradecanoyl-2-[(9Z,12Z,15Z)-octadecatrienoyl]-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C327_HILIC	Lysophosphatidylinositol	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C331_HILIC	N-oleoylsphingosine-1-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C328_HILIC	PC(14:0/14:0)	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C340_HILIC	PC(18:3(9Z,12Z,15Z)/18:2(9Z,12Z))	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C339_HILIC	PC(o-16:0/20:4(8Z,11Z,14Z,17Z))	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C338_HILIC	PS(18:0/16:1(9Z))	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+B174_HILIC	14(Z)-Eicosenoic acid	Lipid metabolism / PUFA	lipid metablism
+B188_HILIC	Palmitoyl sphingomyelin	Lipid metabolism / Sphingomyelin 	lipid metablism
+C192_HILIC	monomethyl phosphate	Monoalkyl phosphates	other
+C285_HILIC	1-Methylinosine	Nucleoside metabolism	nucleoside metabolism
+C269_HILIC	1-(beta-D-ribofuranosyl)thymine	Nucleoside metabolism 	nucleoside metabolism
+B168_HILIC	N2-Methylguanosine	Nucleoside metabolism 	nucleoside metabolism
+B165_HILIC	Orotidine	Nucleoside metabolism 	nucleoside metabolism
+C307_HILIC	Adenylsuccinic acid	Purine metabolism 	nucleoside metabolism
+C230_HILIC	5-guanidino-3-methyl-2-oxopentanoic acid	Valeric acid derivative 	other
+C214_HILIC	delta-guanidinovaleric acid	Valeric acid derivative 	other
+A001_RP	L-(+)-Alanine	AA Metabolism / Alanine 	aa metabolism
+A037_RP	L-(+)-Arginine	AA metabolism / Arginine 	aa metabolism
+A044_RP	NG,NG-dimethylarginine	AA metabolism / Arginine 	aa metabolism
+a076_RP	NG-Methyl-L-arginine	AA metabolism / Arginine 	aa metabolism
+A047_RP	Phosphocreatine	AA metabolism / Arginine / Glycine 	aa metabolism
+a074_RP	Putrescine	AA Metabolism / Arginine / Spermidine 	aa metabolism
+A024_RP	Spermidine	AA Metabolism / Arginine / Spermidine / Polyamide 	aa metabolism
+B100_RP	N-Acetyl-1-aspartylglutamic acid	AA metabolism / Aspartate / Glutamate / Neurotransmitter 	aa metabolism
+A051_RP	L-Anserine	AA metabolism / beta-Alanine / Histidine 	aa metabolism
+B099_RP	Υ-L-Glutamyl-L-glutamic acid	AA metabolism / Glutamate	aa metabolism
+A015_RP	L-Pyroglutamic acid	AA metabolism / Glutamate / Glutathione metabolism	aa metabolism
+A027_RP	L-(+)-Glutamic acid	AA Metabolism / Glutamate / Neurotransmitter	aa metabolism
+A025_RP	L-Glutamine	AA metabolism / Glutamine 	aa metabolism
+A010_RP	Betaine	AA metabolism / Glycine 	aa metabolism
+A009_RP	Guanidineacetic acid	AA metabolism / Glycine / Arginine 	aa metabolism
+A035_RP	3-Methyl-L-histidine	AA metabolism / Histidine 	aa metabolism
+A026_RP	L-(+)-Lysine	AA metabolism / Lysine 	aa metabolism
+B081_RP	Pipecolic acid	AA metabolism / Lysine 	aa metabolism
+A002_RP	L-a-Amino-n-butyric acid	AA metabolism / Neurotransmitter	aa metabolism
+A016_RP	Hydroxy-L-proline	AA metabolism / Proline 	aa metabolism
+A007_RP	L-Proline	AA metabolism / Proline 	aa metabolism
+A048_RP	L-(+)-Cystathionine	AA metabolism / Serine / Homocysteine 	aa metabolism
+A005_RP	Hypotaurine	AA Metabolism / Taurine 	aa metabolism
+A012_RP	Threonine	AA metabolism / Threonine 	aa metabolism
+A046_RP	L-Kynurenine	AA metabolism / Tryptophan	aa metabolism
+A045_RP	L-Tryptophan	AA metabolism / Tryptophan 	aa metabolism
+a075_RP	Serotonin	AA metabolism / Tryptophan / Neurotransmitter  	aa metabolism
+a077_RP	5-Hydroxyindole-3-acetic acid	AA metabolism / Tryptophan / Serotonine  	aa metabolism
+A029_RP	Dopamine	AA Metabolism / Tyrosine / Neurotransmitter 	aa metabolism
+A038_RP	L-Citrulline	AA metabolism / Urea / Citrulline 	aa metabolism
+A058_RP	Argininosuccinic acid	AA metabolism / Urea cycle 	aa metabolism
+A020_RP	L-Ornithine	AA Metabolism / Urea cycle / Ornithine	aa metabolism
+A014_RP	2-Hydroxyethanesulfonic acid	Acid	other
+A061_RP	Adenosine 5'-monophosphate (5'-AMP)	Bioenergetic processes / Pyrimidine metabolism 	bioenergetic process
+B107_RP	Adenosine diphosphate (ADP)	Bioenergetic processes / Pyrimidine metabolism 	bioenergetic process
+A072_RP	L-Glutathione oxidized	Bioenergetic processes / ROS	bioenergetic process
+A008_RP	Fumaric acid	Bioenergetic processes / TCA cylce 	bioenergetic process
+A022_RP	L-(-)-Malic acid	Bioenergetic processes / TCA cylce 	bioenergetic process
+A011_RP	Succinic acid	Bioenergetic processes / TCA cylce 	bioenergetic process
+A032_RP	L-2-Aminoadipic acid	Butane metabolism 	other
+A043_RP	Gluconic acid	Carbohydrate / Glucose derivative	other
+A053_RP	Choline glycerophosphate	Choline / Glycerol / Phospholipids	other
+B085_RP	Acetylcholine	Choline / Neurotransmitter 	other
+B092_RP	Glycyl-L-leucine	Dipeptide 	other
+A049_RP	L-Carnosine	Dipeptide 	other
+A036_RP	sn-Glycerol-3-phosphate	Glycerol / Carbohydrate	other
+A054_RP	a-D-Glucose 1-phosphate	Glycolysis / Carbohydrate	glycolysis
+A039_RP	D-(+)-Glucose	Glycolysis / Carbohydrate	glycolysis
+A050_RP	D-Ribulose 5'-phosphate	Glycolysis / Carbohydrate	glycolysis
+a078_RP	Prostaglandin D2	Lipid metabolism / Arachidonic acid derivative 	lipid metablism
+A033_RP	L-Carnitine	Lipid metabolism / Carnitine	lipid metablism
+B096_RP	Propionylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+A069_RP	Cytidine 5'-diphosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+B083_RP	Adenine	Nucleoside metabolism 	nucleoside metabolism
+A063_RP	Guanosine 5'-monophosphate (5'-GMP)	Nucleoside metabolism 	nucleoside metabolism
+A062_RP	Inosine 5'-monophosphate (5'-IMP)	Nucleoside metabolism 	nucleoside metabolism
+B103_RP	Uridine monophosphate (UMP)	Nucleoside metabolism 	nucleoside metabolism
+A057_RP	Guanosine	Nucleoside metabolism / Purine metabolism 	nucleoside metabolism
+A023_RP	Hypoxanthine	Nucleoside metabolism / Purine metabolism 	nucleoside metabolism
+A056_RP	Inosine	Nucleoside metabolism / Purine metabolism 	nucleoside metabolism
+A028_RP	Xanthine	Nucleoside metabolism / Purine metabolism / Guanine 	nucleoside metabolism
+A055_RP	Adenosine	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+B097_RP	Cytidine	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+A02_RP	Uridine	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+A031_RP	Allantoin	Uric acid metabolism 	other
+C123_RP	acetyltaurine	AA metabolism / Acetate / Taurine	aa metabolism
+B095_RP	Acetylarginine	AA metabolism / Arginine 	aa metabolism
+C153_RP	Succinyladenosine	AA metabolism / Aspartate	aa metabolism
+C133_RP	D-PANTOTHENIC ACID	AA metabolism / beta-Alanine 	aa metabolism
+B084_RP	g-Butyrobetaine	AA metabolism / Carnitine 	aa metabolism
+C128_RP	N-Acetyl-L-glutamic acid	AA metabolism / Glutamate	aa metabolism
+C148_RP	L-alpha-Glutamyl-L-glutamine	AA metabolism / Glutamine / Glutamate	aa metabolism
+C140_RP	N-Undecanoylglycine	AA metabolism / Glycine 	aa metabolism
+C130_RP	N-Acetyl-L-histidine	AA metabolism / Histidine 	aa metabolism
+C137_RP	N-(tert-Butoxycarbonyl)-L-leucine	AA metabolism / Leucine 	aa metabolism
+C139_RP	5-(Phosphonooxy)-L-lysine	AA metabolism / Lysine 	aa metabolism
+C129_RP	DL-2,6-Diaminopimelic acid	AA metabolism / Lysine 	aa metabolism
+C127_RP	N~6~,N~6~-Dimethyllysine	AA metabolism / Lysine 	aa metabolism
+C117_RP	Stachydrine	AA metabolism / Proline / Betaine 	aa metabolism
+C125_RP	Guanidinoethyl Sulfonate	AA Metabolism / Taurine 	aa metabolism
+C138_RP	4-Hydroxyprolylthreonine	AA metabolism / Threonine 	aa metabolism
+C160_RP	N-Stearoyltyrosine	AA Metabolism / Tyrosine / Neurotransmitter 	aa metabolism
+B089_RP	N-Acetylornithine	AA Metabolism / Urea cycle / Ornithine	aa metabolism
+C118_RP	3-Methylenenorleucine	AA metabolsim / Leucine 	aa metabolism
+B088_RP	Isophthalic acid	Acid	other
+c172_RP	alpha-Ketoglutaric acid	Bioenergetic processes / TCA cycle 	bioenergetic process
+C147_RP	Glutaurine	Dipeptide 	other
+C113_RP	1-Methylhistamine	Histamine	other
+C141_RP	S-3-oxodecanoyl cysteamine	Lipid metabolism 	lipid metablism
+A066_RP	Stearoyl-L-carnitine	Lipid metabolism / Carnitine	lipid metablism
+C154_RP	(2E)-hexadecenoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+c185_RP	(R)-3-hydroxybutyrylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+C144_RP	2-methylbutyrylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+c204_RP	3, 5-Tetradecadiencarnitine	Lipid metabolism / Carnitine 	lipid metablism
+C136_RP	butyrylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+C151_RP	cis-5-Tetradecenoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+c201_RP	decanoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+B098_RP	Hexanoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+C143_RP	Isovalerylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+c197_RP	Octanoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+c193_RP	O-glutaroyl-L-carnitine	Lipid metabolism / Carnitine 	lipid metablism
+C158_RP	O-oleoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+B106_RP	Palmitoylcarnitine	Lipid metabolism / Carnitine 	lipid metablism
+C145_RP	Glycerophosphoglycerol	Lipid metabolism / Glycerol	lipid metablism
+C120_RP	hydroxyacetone phosphate	Lipid metabolism / ketone metabolism 	lipid metablism
+C169_RP	1-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C167_RP	1-arachidonoyl-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C166_RP	2-arachidonoyl-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C164_RP	2-arachidonyl-sn-glycero-3-phosphoethanolamine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C162_RP	2-palmitoyl-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+B108_RP	Glycerophospho-N-palmitoyl ethanolamine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C132_RP	Glycerylphosphorylethanolamine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C161_RP	L-alpha-lysophosphatidylcholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C165_RP	lysophosphatidylethanolamine (22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C114_RP	Dihydrothymine	Nucleoside metabolism / Purine metabolism 	nucleoside metabolism
+C155_RP	uridine 5′-diphosphate	Nucleoside metabolism/ Pyrimidine metabolism 	nucleoside metabolism
+B109_RP	Adenosine diphosphate ribose	Nucleoside sugar 	nucleoside metabolism

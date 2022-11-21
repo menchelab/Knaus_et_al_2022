@@ -1,0 +1,104 @@
+Name	KEGG	correlations
+NG,NG-dimethylarginine	C03626	0.9224464404155363
+Creatine	C00300	0.9291283858277178
+L-Creatinine	C00791	0.8715839772339339
+L-(-)-Asparagine	C00152	0.963753446516529
+N-Acetyl-1-aspartylglutamic acid	C12270	0.9554184052958014
+L-Cysteinesulfinic acid	C00606	0.9491847697566846
+L-(+)-Glutamine	C00064	0.8360274362959281
+Aminolevulinic acid	C00430	0.9536704120714198
+1-Methyl-L-histidine	C01152	0.9640719139017162
+L-(+)-Isoleucine	C00407	0.5743969663476078
+L-Leucine	C00123	0.8501423752320679
+L-(+)-Lysine	C00047	0.878099774848648
+N6,N6,N6-Trimethyl-L-lysine	C03793	0.8864090404029271
+L-(-)-Methionine	C00073	0.479737551482267
+N-Acetyl-L-methionine	C02712	0.9681982422190979
+L-(-)-Phenylalanine	C00079	0.4531574104406128
+L-Proline	C00148	0.8911113261452456
+L-(-)-Serine	C00065	-0.4715947259894079
+L-Homoserine	C00263	0.9109102150342795
+Taurine	C00245	0.7911049079913843
+L-Threonic acid	C01620	0.9164434702967789
+L-Tryptophan	C00078	0.9643016188584462
+DL-p-Hydroxyphenyllactic acid	C03964	0.97012903047609
+L-(-)-Tyrosine	C00082	0.9381359541209868
+Citric acid	C00158	0.1686258595569887
+Nicotinamide adenine dinucleotide phosphate (NADP+)	C00006	0.973498928346782
+Fumaric acid	D02308	0.9667577411424965
+Taurocholic acid	C05122	-0.32291937032192214
+Choline	C00114	0.8551944883460083
+Choline glycerophosphate	C00670	0.9677503046508082
+D-Fructose 1,6-bisphosphate	C00354	0.9726228815811262
+D-Glucose-1-phosphate	C00103	0.9673986824976241
+L-(+)-Lactic acid	C00186	-0.47861885729178943
+Dihydroxyacetone phosphate	C00111	0.9672082359820077
+Pyruvic acid	C00022	0.8647691537247642
+3-Hydroxybutyric acid	C01089	0.8114185157393672
+D-α-Hydroxyglutaric acid	C01087	0.8819561321333885
+Stearic acid	C01530	-0.0894980766717496
+Oleamide	C19670	0.9725911127670024
+CDP-ethanolamine	C00570	0.8836811165101851
+O-Phosphorylethanolamine	C00346	0.9435082224493413
+11(Z),14(Z)-Eicosadienoic acid	C16525	0.9309833855036235
+Docosapentaenoic acid	C16513	0.9485118143419836
+Linoleic acid	C01595	0.948480596457063
+Guanosine 5'-diphosphate (5'-GDP)	C00035	0.86955921579305
+D-Sedoheptulose 7-phosphate	C05382	0.9545228324349042
+D-(-)-Mannitol	D00062	0.12039849117827311
+L-(-)-Arabitol	C00532	-0.03003904919899301
+Uric Acid	C00366	0.9480821993124009
+(-)-Riboflavin	C00255	0.3424868958615317
+Ascorbic acid	C00072	0.9170808249832654
+3-Sulfamoylalanine		0.6738754358443133
+Acetylarginine		0.9570329836338741
+S-Allyl-L-cysteine		0.2428413941832372
+Prenisteine		0.5908063190559283
+N-(2-Pyrrolidinylcarbonyl)glutamine		0.9118800253532957
+N-(3,4-Dihydroxyphenyl)glutamine		0.8567392968323333
+Allysine		0.8876137320783773
+N-Acetyl-L-phenylalanine		-0.09384064565831625
+N-[(9-beta-D-ribofuranosylpurin-6-yl)carbamoyl]threonine		0.9253603324128242
+D-erythronic acid		0.8021179243022777
+N-Acetylornithine		0.6960816938669201
+2-Amino-5-phosphopentanoic acid		0.8405272660767125
+Phosphoramidic acid		0.8880230031055978
+hydroxycitric acid		0.5984087284417972
+L-Cysteine-glutathione Disulfide		0.9400381711506134
+D-glycero-beta-D-manno-heptose 1,7-bisphosphate		0.9748296754129504
+Lysylvaline		0.9600895777653401
+Valylvaline		0.9479035552363696
+Valylproline		0.9550257084068924
+Hydantoin-5-propionic acid		0.9193886834381189
+Glycerophosphoglycerol		0.880644067194051
+glycidyl oleate		0.7726115083231723
+(R)-3-hydroxybutyrylcarnitine		0.9506855424609844
+1-(sn-glycero-3-phospho)-1D-myo-inositol		0.9445219583573539
+1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine		0.9743042019897719
+1-hexadecanoyl-2-[(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl]-sn-glycero-3-phosphocholine		0.892437726325335
+1-Octadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoserine		0.828398336073703
+1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine		0.8880508552188383
+1-Palmitoyl-2-hydroxy-sn-glycero-3-PE		0.7908860948523422
+Glycerophospho-N-palmitoyl ethanolamine		0.9622658868224883
+PC		0.9650667099988786
+Platelet-activating factor		0.4254166438510972
+3-Oxopropanoic acid		0.9018397143635599
+6-Aminonicotinic acid		0.9590501536593053
+1-Methyladenosine		0.8775642743949915
+CMP-sialic acid		0.8600634747780204
+deoxyuridine		0.17009245811509321
+Histidine	C00135	0.9336169397311663
+β-Nicotinamide adenine dinucleotide (NAD+)	C00003	0.2905968629407275
+L-(-)-Malic acid	C00149	0.9287814291102882
+Glycyl-L-leucine	C02155	0.9510891153452307
+p-Hydroxyphenyllactic acid	C03964	0.9393531140062338
+Prostaglandin D2	C00696	0.970317851581886
+DL-2,6-Diaminopimelic acid		0.9737216684480574
+Isophthalic acid		0.920557009367892
+S-3-oxodecanoyl cysteamine		0.9173385112748761
+2-Hydroxy-2-methylbutyric acid		0.9677455322032751
+Stearoyl-L-carnitine		0.35584060669264367
+3-hydroxyhexadecanoylcarnitine		0.8508947568448076
+O-oleoylcarnitine		0.9736852702710151
+1-Oleoyl-2-hydroxy-sn-glycero-3-PE		0.9694244217903862
+2-arachidonyl-sn-glycero-3-phosphoethanolamine		0.9635842564981935

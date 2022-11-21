@@ -1,0 +1,21 @@
+mapid	name	ncommon	ncompounds	compounds	pvalue	reject	padj
+mmu00830	Retinol metabolism - Mus musculus (mouse)	1	1	['C00777']	0.08379888268156012	False	0.7290569218723643
+mmu00450	Selenocompound metabolism - Mus musculus (mouse)	1	1	['C00041']	0.08379888268156012	False	0.7290569218723643
+mmu00130	Ubiquinone and other terpenoid-quinone biosynthesis - Mus musculus (mouse)	1	3	['C02477', 'C03964', 'C00082']	0.23210795709032875	False	0.7290569218723643
+mmu00250	Alanine, aspartate and glutamate metabolism - Mus musculus (mouse)	2	12	['C00152', 'C00158', 'C00049', 'C00042', 'C00041', 'C01042', 'C00334', 'C03406', 'C00064', 'C00025', 'C12270', 'C00022']	0.26496908162177407	False	0.7290569218723643
+mmu00380	Tryptophan metabolism - Mus musculus (mouse)	1	4	['C05635', 'C00780', 'C00328', 'C00078']	0.29755330165649757	False	0.7290569218723643
+mmu04122	Sulfur relay system - Mus musculus (mouse)	1	5	['C00019', 'C00041', 'C00044', 'C00378', 'C00979']	0.35776301865741406	False	0.7290569218723643
+mmu00620	Pyruvate metabolism - Mus musculus (mouse)	1	5	['C00042', 'C00149', 'C00186', 'C00074', 'C00022']	0.35776301865741406	False	0.7290569218723643
+mmu00500	Starch and sucrose metabolism - Mus musculus (mouse)	1	5	['C00031', 'C00092', 'C00029', 'C00103', 'C01083']	0.35776301865741406	False	0.7290569218723643
+mmu00310	Lysine degradation - Mus musculus (mouse)	1	5	['C00042', 'C00047', 'C00408', 'C03793', 'C00956']	0.35776301865741406	False	0.7290569218723643
+mmu00270	Cysteine and methionine metabolism - Mus musculus (mouse)	2	15	['C00019', 'C00170', 'C02291', 'C00049', 'C02989', 'C00263', 'C00041', 'C00022', 'C00021', 'C00065', 'C02356', 'C00979', 'C00606', 'C00073', 'C00051']	0.36452846093618213	False	0.7290569218723643
+mmu00020	Citrate cycle (TCA cycle) - Mus musculus (mouse)	1	6	['C00042', 'C00417', 'C00149', 'C00074', 'C00158', 'C00022']	0.4131282756697122	False	0.7296516431865208
+mmu00220	Arginine biosynthesis - Mus musculus (mouse)	1	7	['C00327', 'C00049', 'C03406', 'C00064', 'C00077', 'C00025', 'C00062']	0.4640131072590426	False	0.7296516431865208
+mmu00630	Glyoxylate and dicarboxylate metabolism - Mus musculus (mouse)	1	8	['C00042', 'C00417', 'C00149', 'C00065', 'C00064', 'C00025', 'C00158', 'C00022']	0.5107561502305645	False	0.7296516431865208
+mmu00430	Taurine and hypotaurine metabolism - Mus musculus (mouse)	1	8	['C00041', 'C05122', 'C00519', 'C00245', 'C05123', 'C00025', 'C00606', 'C00022']	0.5107561502305645	False	0.7296516431865208
+mmu02010	ABC transporters - Mus musculus (mouse)	3	34	['C00188', 'C00047', 'C00135', 'C00294', 'C00114', 'C01157', 'C00077', 'C00025', 'C01083', 'C00475', 'C00212', 'C00051', 'C00031', 'C00148', 'C00093', 'C00881', 'C00430', 'C00299', 'C00123', 'C00062', 'C00719', 'C00041', 'C00134', 'C00065', 'C00407', 'C00315', 'C00255', 'C00245', 'C00116', 'C00049', 'C00079', 'C00378', 'C00064', 'C00387']	0.5709252381960424	False	0.7413176690993841
+mmu00480	Glutathione metabolism - Mus musculus (mouse)	1	10	['C00005', 'C00134', 'C00006', 'C00127', 'C00315', 'C00077', 'C01879', 'C00025', 'C00072', 'C00051']	0.5930541352795073	False	0.7413176690993841
+mmu00240	Pyrimidine metabolism - Mus musculus (mouse)	1	16	['C00106', 'C00029', 'C00055', 'C00015', 'C00063', 'C00881', 'C00295', 'C00064', 'C00364', 'C00363', 'C02067', 'C00105', 'C00299', 'C00475', 'C00214', 'C00112']	0.7690603431206655	False	0.8097279718599125
+mmu00470	D-Amino acid metabolism - Mus musculus (mouse)	1	17	['C00188', 'C00049', 'C00041', 'C00148', 'C00047', 'C00135', 'C00134', 'C00065', 'C00079', 'C00064', 'C01157', 'C03771', 'C00077', 'C00025', 'C00062', 'C00073', 'C00022']	0.7903124587844006	False	0.8097279718599125
+mmu00970	Aminoacyl-tRNA biosynthesis - Mus musculus (mouse)	1	17	['C00152', 'C00188', 'C00049', 'C00041', 'C00148', 'C00047', 'C00135', 'C00065', 'C00079', 'C00082', 'C00062', 'C00407', 'C00064', 'C00025', 'C00123', 'C00073', 'C00078']	0.7903124587844006	False	0.8097279718599125
+mmu00230	Purine metabolism - Mus musculus (mouse)	1	18	['C00620', 'C00130', 'C00294', 'C00020', 'C00044', 'C00242', 'C01367', 'C00064', 'C00366', 'C00262', 'C00385', 'C00147', 'C00002', 'C00035', 'C00008', 'C00387', 'C00212', 'C00144']	0.8097279718599125	False	0.8097279718599125

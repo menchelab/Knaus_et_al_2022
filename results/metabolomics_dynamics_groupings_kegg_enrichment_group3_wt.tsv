@@ -1,0 +1,42 @@
+mapid	name	ncommon	ncompounds	compounds	pvalue	reject	padj
+mmu00564	Glycerophospholipid metabolism - Mus musculus (mouse)	4	9	['C00307', 'C00093', 'C00570', 'C00065', 'C00114', 'C01996', 'C00111', 'C00346', 'C00670']	0.012156920791191045	False	0.24608444013584546
+mmu00910	Nitrogen metabolism - Mus musculus (mouse)	2	2	['C00064', 'C00025']	0.013181846713953681	False	0.24608444013584546
+mmu02010	ABC transporters - Mus musculus (mouse)	8	34	['C00188', 'C00047', 'C00135', 'C00294', 'C00114', 'C01157', 'C00077', 'C00025', 'C01083', 'C00475', 'C00212', 'C00051', 'C00031', 'C00148', 'C00093', 'C00881', 'C00430', 'C00299', 'C00123', 'C00062', 'C00719', 'C00041', 'C00134', 'C00065', 'C00407', 'C00315', 'C00255', 'C00245', 'C00116', 'C00049', 'C00079', 'C00378', 'C00064', 'C00387']	0.024186208972906974	False	0.24608444013584546
+mmu00970	Aminoacyl-tRNA biosynthesis - Mus musculus (mouse)	5	17	['C00152', 'C00188', 'C00049', 'C00041', 'C00148', 'C00047', 'C00135', 'C00065', 'C00079', 'C00082', 'C00062', 'C00407', 'C00064', 'C00025', 'C00123', 'C00073', 'C00078']	0.03300223009855857	False	0.24608444013584546
+mmu00470	D-Amino acid metabolism - Mus musculus (mouse)	5	17	['C00188', 'C00049', 'C00041', 'C00148', 'C00047', 'C00135', 'C00134', 'C00065', 'C00079', 'C00064', 'C01157', 'C03771', 'C00077', 'C00025', 'C00062', 'C00073', 'C00022']	0.03300223009855857	False	0.24608444013584546
+mmu00220	Arginine biosynthesis - Mus musculus (mouse)	3	7	['C00327', 'C00049', 'C03406', 'C00064', 'C00077', 'C00025', 'C00062']	0.036012357093050555	False	0.24608444013584546
+mmu00630	Glyoxylate and dicarboxylate metabolism - Mus musculus (mouse)	3	8	['C00042', 'C00417', 'C00149', 'C00065', 'C00064', 'C00025', 'C00158', 'C00022']	0.053224507336157995	False	0.2727756000978097
+mmu00340	Histidine metabolism - Mus musculus (mouse)	3	8	['C01262', 'C00049', 'C00135', 'C01152', 'C05828', 'C00025', 'C00386', 'C02835']	0.053224507336157995	False	0.2727756000978097
+mmu04068	FoxO signaling pathway - Mus musculus (mouse)	2	4	['C00025', 'C00020', 'C00031', 'C00008']	0.06820522420504152	False	0.31071268804518914
+mmu00480	Glutathione metabolism - Mus musculus (mouse)	3	10	['C00005', 'C00134', 'C00006', 'C00127', 'C00315', 'C00077', 'C01879', 'C00025', 'C00072', 'C00051']	0.09736353522777817	False	0.34357541899441324
+mmu00524	Neomycin, kanamycin and gentamicin biosynthesis - Mus musculus (mouse)	2	5	['C00029', 'C00031', 'C00092', 'C00043', 'C00025']	0.10563296415330171	False	0.34357541899441324
+mmu04072	Phospholipase D signaling pathway - Mus musculus (mouse)	1	1	['C00025']	0.1173184357541899	False	0.34357541899441324
+mmu00750	Vitamin B6 metabolism - Mus musculus (mouse)	1	1	['C00064']	0.1173184357541899	False	0.34357541899441324
+mmu00510	N-Glycan biosynthesis - Mus musculus (mouse)	1	1	['C00096']	0.1173184357541899	False	0.34357541899441324
+mmu00520	Amino sugar and nucleotide sugar metabolism - Mus musculus (mouse)	2	6	['C00031', 'C00029', 'C00096', 'C00167', 'C00043', 'C00103']	0.14730896768762305	False	0.40264451167950305
+mmu00410	beta-Alanine metabolism - Mus musculus (mouse)	2	7	['C00106', 'C01262', 'C00049', 'C00135', 'C00334', 'C00315', 'C00386']	0.1918276119254491	False	0.49155825555896326
+mmu00600	Sphingolipid metabolism - Mus musculus (mouse)	1	2	['C00346', 'C00065']	0.22145502479440293	False	0.5340974127394424
+mmu00860	Porphyrin metabolism - Mus musculus (mouse)	1	3	['C00430', 'C00188', 'C00025']	0.31382476761541367	False	0.5951949147461166
+mmu04150	mTOR signaling pathway - Mus musculus (mouse)	1	3	['C00062', 'C00123', 'C00020']	0.31382476761541367	False	0.5951949147461166
+mmu00051	Fructose and mannose metabolism - Mus musculus (mouse)	1	3	['C00111', 'C00186', 'C00096']	0.31382476761541367	False	0.5951949147461166
+mmu04071	Sphingolipid signaling pathway - Mus musculus (mouse)	1	3	['C00346', 'C00065', 'C00212']	0.31382476761541367	False	0.5951949147461166
+mmu00330	Arginine and proline metabolism - Mus musculus (mouse)	3	17	['C00019', 'C00581', 'C00148', 'C00334', 'C00134', 'C02305', 'C02714', 'C01157', 'C00315', 'C03771', 'C00077', 'C00791', 'C00025', 'C00213', 'C00062', 'C00300', 'C00022']	0.3193728810832821	False	0.5951949147461166
+mmu00740	Riboflavin metabolism - Mus musculus (mouse)	1	4	['C00199', 'C00016', 'C00255', 'C00044']	0.3956979487521955	False	0.6398927330326697
+mmu00250	Alanine, aspartate and glutamate metabolism - Mus musculus (mouse)	2	12	['C00152', 'C00158', 'C00049', 'C00042', 'C00041', 'C01042', 'C00334', 'C03406', 'C00064', 'C00025', 'C12270', 'C00022']	0.42323881061736346	False	0.6398927330326697
+mmu00500	Starch and sucrose metabolism - Mus musculus (mouse)	1	5	['C00031', 'C00092', 'C00029', 'C00103', 'C01083']	0.46821419490195343	False	0.6398927330326697
+mmu04066	HIF-1 signaling pathway - Mus musculus (mouse)	1	5	['C00031', 'C00186', 'C00002', 'C00072', 'C00022']	0.46821419490195343	False	0.6398927330326697
+mmu00561	Glycerolipid metabolism - Mus musculus (mouse)	1	5	['C00029', 'C00093', 'C00103', 'C00111', 'C00116']	0.46821419490195343	False	0.6398927330326697
+mmu00052	Galactose metabolism - Mus musculus (mouse)	1	5	['C00029', 'C00031', 'C00103', 'C00111', 'C00116']	0.46821419490195343	False	0.6398927330326697
+mmu00650	Butanoate metabolism - Mus musculus (mouse)	1	5	['C01089', 'C00042', 'C00334', 'C00025', 'C00022']	0.46821419490195343	False	0.6398927330326697
+mmu00920	Sulfur metabolism - Mus musculus (mouse)	1	5	['C00263', 'C00042', 'C00065', 'C00245', 'C00979']	0.46821419490195343	False	0.6398927330326697
+mmu00260	Glycine, serine and threonine metabolism - Mus musculus (mouse)	2	14	['C00581', 'C00188', 'C02291', 'C00719', 'C00263', 'C00022', 'C00049', 'C00065', 'C00114', 'C00430', 'C00213', 'C00300', 'C01026', 'C00078']	0.5087152485655847	False	0.6420060251216925
+mmu00010	Glycolysis / Gluconeogenesis - Mus musculus (mouse)	1	6	['C00031', 'C00186', 'C00074', 'C00103', 'C00111', 'C00022']	0.5323952403448181	False	0.6420060251216925
+mmu00053	Ascorbate and aldarate metabolism - Mus musculus (mouse)	1	6	['C00029', 'C00072', 'C00096', 'C00167', 'C01620', 'C00022']	0.5323952403448181	False	0.6420060251216925
+mmu04152	AMPK signaling pathway - Mus musculus (mouse)	1	6	['C00031', 'C00020', 'C00003', 'C00354', 'C00008', 'C00022']	0.5323952403448181	False	0.6420060251216925
+mmu00270	Cysteine and methionine metabolism - Mus musculus (mouse)	2	15	['C00019', 'C00170', 'C02291', 'C00049', 'C02989', 'C00263', 'C00041', 'C00022', 'C00021', 'C00065', 'C02356', 'C00979', 'C00606', 'C00073', 'C00051']	0.548595891051046	False	0.6426409009455111
+mmu00030	Pentose phosphate pathway - Mus musculus (mouse)	1	7	['C00257', 'C00031', 'C00345', 'C00620', 'C00199', 'C05382', 'C00022']	0.5891565117480686	False	0.6709838050464114
+mmu00040	Pentose and glucuronate interconversions - Mus musculus (mouse)	1	8	['C00029', 'C00199', 'C00167', 'C00103', 'C00532', 'C00111', 'C00116', 'C00022']	0.639317635313631	False	0.6889724551420221
+mmu00430	Taurine and hypotaurine metabolism - Mus musculus (mouse)	1	8	['C00041', 'C05122', 'C00519', 'C00245', 'C05123', 'C00025', 'C00606', 'C00022']	0.639317635313631	False	0.6889724551420221
+mmu00230	Purine metabolism - Mus musculus (mouse)	2	18	['C00620', 'C00130', 'C00294', 'C00020', 'C00044', 'C00242', 'C01367', 'C00064', 'C00366', 'C00262', 'C00385', 'C00147', 'C00002', 'C00035', 'C00008', 'C00387', 'C00212', 'C00144']	0.6553640426960697	False	0.6889724551420221
+mmu04080	Neuroactive ligand-receptor interaction - Mus musculus (mouse)	1	13	['C00049', 'C00780', 'C00696', 'C00015', 'C00008', 'C03758', 'C00334', 'C01996', 'C00245', 'C00002', 'C00025', 'C00212', 'C12270']	0.8142294561774318	False	0.8345851925818676
+mmu00240	Pyrimidine metabolism - Mus musculus (mouse)	1	16	['C00106', 'C00029', 'C00055', 'C00015', 'C00063', 'C00881', 'C00295', 'C00064', 'C00364', 'C00363', 'C02067', 'C00105', 'C00299', 'C00475', 'C00214', 'C00112']	0.8765169056342504	False	0.8765169056342504

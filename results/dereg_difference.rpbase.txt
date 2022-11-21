@@ -1,0 +1,28 @@
+ID	Name	metabolitegroupfine	metabolitegroupcoarse
+B167_HILIC	5'-S-Methyl-5'-thioadenosine	AA metabolism / Methionine 	aa metabolism
+A110_HILIC	Nicotinamide adenine dinucleotide phosphate (NADP+)	Bionenergetic processes	bioenergetic process
+B136_HILIC	Nonanoic acid	Lipid metabolism / SSFA 	lipid metablism
+A096_HILIC	Cytidine 5'-diphosphate (5'-CDP)	Nucleoside metabolism 	nucleoside metabolism
+A104_HILIC	Guanosine 5'-triphosphate (5'-GTP)	Nucleoside metabolism 	nucleoside metabolism
+C216_HILIC	S-Allyl-L-cysteine	AA metabolism / Cysteine	aa metabolism
+C225_HILIC	Formiminoglutamic Acid	AA metabolism / Histidine / Glutamate 	aa metabolism
+C273_HILIC	glu-asp	Dipeptide	other
+C283_HILIC	leu-phe	Dipeptide	other
+C277_HILIC	threonylphenylalanine	Dipeptide	other
+C224_HILIC	Hydantoin-5-propionic acid	Folate metabolism 	other
+C300_HILIC	1-Palmitoyl lysophosphatidic acid	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C284_HILIC	1-Methyladenosine	Nucleoside metabolism 	nucleoside metabolism
+B139_HILIC	1-Methylguanine	Nucleoside metabolism 	nucleoside metabolism
+A019_RP	L-(-)-Asparagine	AA metabolism / Asparagine 	aa metabolism
+A021_RP	L-(+)-Aspartic acid	AA metabolism / Aspartate	aa metabolism
+B087_RP	L-Cysteinesulfinic acid	AA metabolism / Cysteine 	aa metabolism
+A017_RP	L-(+)-Isoleucine	AA Metabolism / LNAA / Isoleucine 	aa metabolism
+A018_RP	L-Leucine	AA metabolism / LNAA / Leucine 	aa metabolism
+A065_RP	S-(5'-Adenosyl)-L-methionine (SAM)	AA Metabolism / Methionine	aa metabolism
+A064_RP	S-Adenosyl-L-homocysteine	AA Metabolism / Methionine	aa metabolism
+B104_RP	3'-Adenosine monophosphate (3'-AMP)	Nucleoside metabolism 	nucleoside metabolism
+A059_RP	5-Deoxy-5'-(methylthio) adenosine (MTA)	Nucleoside metabolism 	nucleoside metabolism
+A060_RP	Thymidine 5'-monophosphate (5'-TMP)	Nucleoside metabolism 	nucleoside metabolism
+B110_RP	UDP-N-acetylglucosamine	Nucleoside sugar 	nucleoside metabolism
+A071_RP	Uridine 5'-diphosphate glucose	Nucleoside sugar 	nucleoside metabolism
+B079_RP	3-Hydroxybutyric acid	Lipid metabolism / Ketone 	lipid metablism

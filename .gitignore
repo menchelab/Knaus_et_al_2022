@@ -1,11 +1,5 @@
 #folders
-results/
-data/
-processed/
-.nextflow/
-compass/
 notebooks/.ipynb_checkpoints/
-plots/
 
 #files
 .DS_Store

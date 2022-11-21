@@ -1,0 +1,8 @@
+mapid	name	ncommon	ncompounds	compounds	pvalue	reject	padj
+mmu00052	Galactose metabolism - Mus musculus (mouse)	1	5	['C00029', 'C00031', 'C00103', 'C00111', 'C00116']	0.055238214801321205	False	0.09253656393194137
+mmu00500	Starch and sucrose metabolism - Mus musculus (mouse)	1	5	['C00031', 'C00092', 'C00029', 'C00103', 'C01083']	0.055238214801321205	False	0.09253656393194137
+mmu00561	Glycerolipid metabolism - Mus musculus (mouse)	1	5	['C00029', 'C00093', 'C00103', 'C00111', 'C00116']	0.055238214801321205	False	0.09253656393194137
+mmu00010	Glycolysis / Gluconeogenesis - Mus musculus (mouse)	1	6	['C00031', 'C00186', 'C00074', 'C00103', 'C00111', 'C00022']	0.06609754566567241	False	0.09253656393194137
+mmu00520	Amino sugar and nucleotide sugar metabolism - Mus musculus (mouse)	1	6	['C00031', 'C00029', 'C00096', 'C00167', 'C00043', 'C00103']	0.06609754566567241	False	0.09253656393194137
+mmu00040	Pentose and glucuronate interconversions - Mus musculus (mouse)	1	8	['C00029', 'C00199', 'C00167', 'C00103', 'C00532', 'C00111', 'C00116', 'C00022']	0.08762789529844885	False	0.102232544514857
+mmu00240	Pyrimidine metabolism - Mus musculus (mouse)	1	16	['C00106', 'C00029', 'C00055', 'C00015', 'C00063', 'C00881', 'C00295', 'C00064', 'C00364', 'C00363', 'C02067', 'C00105', 'C00299', 'C00475', 'C00214', 'C00112']	0.17123846588409816	False	0.17123846588409816

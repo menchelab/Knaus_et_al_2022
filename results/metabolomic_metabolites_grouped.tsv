@@ -1,0 +1,180 @@
+Name	KEGG	dynamics_group_wt	dynamics_group_ko
+Methionine	C01733	5	5
+L-(+)-Alanine	C00041	0	0
+L-(+)-Arginine	C00062	3	3
+NG,NG-dimethylarginine	C03626	5	2
+Creatine	C00300	0	3
+L-Creatinine	C00791	3	3
+Phosphocreatine	C02305	5	5
+N-Acetylputrescine	C02714	5	5
+L-(-)-Asparagine	C00152	5	5
+L-(+)-Aspartic acid	C00049	1	1
+N-Acetylaspartic acid	C01042	1	1
+N-Acetyl-1-aspartylglutamic acid	C12270	4	2
+L-Cysteinesulfinic acid	C00606	5	5
+Υ-L-Glutamyl-L-glutamic acid	C05282	3	3
+L-Pyroglutamic acid	C01879	3	1
+gamma-Aminobutyric acid (GABA)	C00334	1	1
+L-(+)-Glutamic acid	C00025	3	3
+L-(+)-Glutamine	C00064	3	1
+Betaine	C00719	5	5
+N,N-Dimethylglycine	C01026	2	2
+Sarcosine	C00213	5	5
+Guanidineacetic acid	C00581	4	2
+Aminolevulinic acid	C00430	5	5
+1-Methyl-L-histidine	C01152	5	5
+Imidazoleacetic acid	C02835	2	2
+L-(+)-Isoleucine	C00407	5	2
+Ketoleucine (4-Methyl-2-oxopentanoic acid)	C00233	5	5
+L-Leucine	C00123	5	2
+L-(-)-Threonine	C00188	5	5
+L-(+)-Lysine	C00047	5	5
+N6,N6,N6-Trimethyl-L-lysine	C03793	1	1
+Pipecolic acid	C00408	5	5
+DL-Methionine sulfoxide	C02989	5	5
+L-(-)-Methionine	C00073	5	2
+N-Acetyl-L-methionine	C02712	1	1
+S-(5'-Adenosyl)-L-methionine (SAM)	C00019	5	5
+S-Adenosyl-L-homocysteine	C00021	3	1
+5'-S-Methyl-5'-thioadenosine	C00170	5	5
+L-(-)-Phenylalanine	C00079	0	3
+L-Hydroxyproline	C01157	5	5
+L-Proline	C00148	5	2
+L-(-)-Serine	C00065	3	5
+L-Homoserine	C00263	2	2
+N-Acetyl-DL-serine	C00979	5	5
+L-(+)-Cystathionine	C02291	4	2
+Hypotaurine	C00519	5	5
+Taurine	C00245	5	2
+L-Threonic acid	C01620	4	1
+L-Kynurenine	C00328	5	0
+L-Tryptophan	C00078	5	5
+DL-p-Hydroxyphenyllactic acid	C03964	4	1
+L-(-)-Tyrosine	C00082	4	2
+Argininosuccinic acid	C03406	0	0
+L-Citrulline	C00327	5	2
+L-Ornithine	C00077	2	2
+N-Acetylneuraminic acid	C19909	1	1
+Nicotinamide	C00153	1	1
+Adenosine 5'-triphosphate (5'-ATP)	C00002	5	5
+Adenosine diphosphate (ADP)	C00008	5	5
+L-Glutathione reduced	C00051	0	0
+cis-Aconitic acid	C00417	1	1
+Citric acid	C00158	2	1
+Coenzyme A	C00010	1	1
+Flavin adenine dinucleotide (FAD)	C00016	3	1
+NADPH	C00005	5	5
+Nicotinamide adenine dinucleotide phosphate (NADP+)	C00006	5	5
+ß-Nicotinamide adenine dinucleotide (NAD+)	C00003	5	5
+ß-Nicotinamide adenine dinucleotide reduced (NADH)	C00004	2	2
+L-Glutathione oxidized	C00127	3	1
+DL-Malic acid	C00711	0	0
+Fumaric acid	D02308	0	0
+L-2-Aminoadipic acid	C00956	0	0
+α,α-Trehalose	C01083	5	0
+6-Phosphogluconic acid	C00345	4	1
+D-Gluconic acid	C00257	5	5
+Gluconic acid	C08038	5	5
+Taurocholic acid	C05122	4	1
+Acetyl-β-methylcholine	C07471	2	2
+Choline	C00114	3	3
+Choline glycerophosphate	C00670	0	3
+Acetylcholine	C01996	1	1
+L-Carnosine	C00386	1	1
+Glycerin	C00116	1	1
+sn-Glycerol-3-phosphate	C00093	3	3
+D-(-)-3-Phosphoglyceric acid	C00597	2	2
+D-Fructose 1,6-bisphosphate	C00354	2	2
+D-Glucose 6-phosphate	C00092	4	1
+D-Glucose-1-phosphate	C00103	4	4
+D-Ribose-1-phosphate	C00620	1	1
+D-Ribulose 5-phosphate	C00199	1	1
+L-(+)-Lactic acid	C00186	5	3
+Dihydroxyacetone phosphate	C00111	1	1
+Phosphoenolpyruvic acid	C00074	4	2
+Pyruvic acid	C00022	5	5
+3-Methylhistamine	C15526	3	1
+Methylimidazoleacetic acid	C05828	1	1
+Adrenic acid	C16527	1	1
+L-Carnitine	C00318	0	0
+Propionylcarnitine	C03017	5	5
+3-Hydroxybutyric acid	C01089	2	2
+D-α-Hydroxyglutaric acid	C01087	3	1
+Stearic acid	C01530	5	3
+Oleamide	C19670	5	0
+CDP-ethanolamine	C00570	3	3
+Cytidine 5'-diphosphocholine (CDP-choline)	C00307	0	3
+O-Phosphorylethanolamine	C00346	2	2
+11(Z),14(Z)-Eicosadienoic acid	C16525	4	1
+8Z,11Z,14Z-Eicosatrienoic acid	C03242	4	1
+Arachidonic acid	C00219	1	1
+Docosahexaenoic acid	C06429	1	1
+Docosapentaenoic acid	C16513	4	2
+Linoleic acid	C01595	1	1
+Myristic acid	C06424	2	2
+Nonanoic acid	C01601	5	5
+α-Eleostearic acid	C08315	4	2
+Hypoxanthine	C00262	1	1
+7-Methylguanine	C02242	2	2
+Cytidine 5'-diphosphate (5'-CDP)	C00112	5	0
+Cytidine 5'-triphosphate (5'-CTP)	C00063	5	5
+Cytidine-5'-monophosphate (5'-CMP)	C00055	4	2
+Guanine	C00242	0	0
+Guanosine 5'-diphosphate (5'-GDP)	C00035	5	5
+Guanosine 5'-monophosphate (5'-GMP)	C00144	1	1
+Guanosine 5'-triphosphate (5'-GTP)	C00044	5	5
+Inosine 5'-monophosphate (5'-IMP)	C00130	4	2
+Pseudouridine	C02067	2	2
+Thymidine 5'-diphosphate (5'-TDP)	C00363	5	5
+Thymidine 5'-monophosphate (5'-TMP)	C00364	5	5
+Uridine 5'-diphosphate (UDP)	C00015	5	5
+Uridine 5'-monophosphate (5'-UMP)	C00105	4	2
+Adenosine 5'-monophosphate (5'-AMP)	C00020	1	1
+Guanosine	C00387	1	1
+Inosine	C00294	1	1
+Xanthine	C00385	1	1
+2'-Deoxycytidine	C00881	4	2
+Adenosine	C00212	1	1
+Cytidine	C00475	4	2
+Orotic acid	C00295	5	5
+Thymidine	C00214	1	4
+Uracil	C00106	1	1
+Uridine	C00299	1	1
+Guanosine 5'-diphospho-D-mannose	C00096	3	3
+UDP-N-acetylglucosamine	C00043	5	5
+Uridine 5'-diphosphoglucose	C00029	5	5
+Uridine 5'-diphosphoglucuronic acid	C00167	5	5
+D-Sedoheptulose 7-phosphate	C05382	2	2
+D-(-)-Mannitol	D00062	1	2
+L-(-)-Arabitol	C00532	3	2
+Allantoin	C01551	2	2
+Uric Acid	C00366	3	3
+5-guanidino-2-oxopentanoic acid (2-oxoarginine)	C03771	4	2
+(-)-Riboflavin	C00255	5	3
+Ascorbic acid	C00072	4	2
+Thiamine	C00378	1	1
+Tocopherol (Vitamin E)	C02477	0	0
+Retinoic acid	C00777	5	0
+NG-Methyl-L-arginine	C03884	5	5
+Putrescine	C00134	2	2
+Spermidine	C00315	2	2
+L-Anserine	C01262	3	1
+L-Glutamine	C00064	1	1
+Histidine	C00135	3	1
+L-a-Amino-n-butyric acid	C02356	1	1
+Threonine	C00188	5	5
+Serotonin	C00780	1	1
+5-Hydroxyindole-3-acetic acid	C05635	1	1
+Dopamine	C03758	1	1
+2-Hydroxyethanesulfonic acid	C05123	1	1
+β-Nicotinamide adenine dinucleotide (NAD+)	C00003	5	3
+L-(-)-Malic acid	C00149	0	0
+Succinic acid	C00042	1	1
+Glycyl-L-leucine	C02155	4	1
+a-D-Glucose 1-phosphate	C00103	1	1
+D-(+)-Glucose	C00031	3	3
+p-Hydroxyphenyllactic acid	C03964	4	1
+Prostaglandin D2	C00696	1	1
+3'-Adenosine monophosphate (3'-AMP)	C01367	1	1
+5-Deoxy-5'-(methylthio) adenosine (MTA)	C00170	5	5
+Adenine	C00147	1	1

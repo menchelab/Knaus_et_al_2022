@@ -1,0 +1,30 @@
+ID	Name	metabolitegroupfine	metabolitegroupcoarse
+B134_HILIC	L-Cysteinesulfinic acid	AA metabolism / Cysteine 	aa metabolism
+A027_HILIC	L-(+)-Isoleucine	AA Metabolism / LNAA / Isoleucine 	aa metabolism
+A026_HILIC	L-Leucine	AA Metabolism / LNAA / Leucine 	aa metabolism
+A094_HILIC	S-(5'-Adenosyl)-L-methionine (SAM)	AA Metabolism / Methionine	aa metabolism
+B167_HILIC	5'-S-Methyl-5'-thioadenosine	AA metabolism / Methionine 	aa metabolism
+A013_HILIC	L-Proline	AA Metabolism / Proline 	aa metabolism
+A019_HILIC	Nicotinamide	Bioenergetic processes / Nicotinamide 	bioenergetic process
+A110_HILIC	Nicotinamide adenine dinucleotide phosphate (NADP+)	Bionenergetic processes	bioenergetic process
+A008_HILIC	3-Hydroxybutyric acid	Lipid metabolism / Ketone 	lipid metablism
+B136_HILIC	Nonanoic acid	Lipid metabolism / SSFA 	lipid metablism
+A031_HILIC	Hypoxanthine	Nucleoside  metabolism / Purine metabolism 	nucleoside metabolism
+A096_HILIC	Cytidine 5'-diphosphate (5'-CDP)	Nucleoside metabolism 	nucleoside metabolism
+A104_HILIC	Guanosine 5'-triphosphate (5'-GTP)	Nucleoside metabolism 	nucleoside metabolism
+A085_HILIC	Thymidine 5'-monophosphate (5'-TMP)	Nucleoside metabolism 	nucleoside metabolism
+A089_HILIC	Adenosine 5'-monophosphate (5'-AMP)	Nucleoside metabolism  / Bioenergetic processes	nucleoside metabolism
+A106_HILIC	UDP-N-acetylglucosamine	Nucleoside sugar 	nucleoside metabolism
+C216_HILIC	S-Allyl-L-cysteine	AA metabolism / Cysteine	aa metabolism
+C225_HILIC	Formiminoglutamic Acid	AA metabolism / Histidine / Glutamate 	aa metabolism
+C273_HILIC	glu-asp	Dipeptide	other
+C283_HILIC	leu-phe	Dipeptide	other
+C277_HILIC	threonylphenylalanine	Dipeptide	other
+C224_HILIC	Hydantoin-5-propionic acid	Folate metabolism 	other
+C300_HILIC	1-Palmitoyl lysophosphatidic acid	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C313_HILIC	2-palmitoyl-sn-glycero-3-phosphocholine	Lipid metabolism / Phospholipid synthesis 	lipid metablism
+C284_HILIC	1-Methyladenosine	Nucleoside metabolism 	nucleoside metabolism
+B139_HILIC	1-Methylguanine	Nucleoside metabolism 	nucleoside metabolism
+C299_HILIC	uridine 5′-diphosphate	Nucleoside metabolism 	nucleoside metabolism
+B104_RP	3'-Adenosine monophosphate (3'-AMP)	Nucleoside metabolism 	nucleoside metabolism
+A059_RP	5-Deoxy-5'-(methylthio) adenosine (MTA)	Nucleoside metabolism 	nucleoside metabolism
